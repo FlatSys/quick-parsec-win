@@ -5,5 +5,5 @@ Simple batch file script to execute parsec from anywhere in the world quickly an
 Run this one line command in your command prompt or powershell to download and run the script. Parsec will be installed to the temp folder automatically.
 
 ```cmd
-curl -L https://raw.githubusercontent.com/FlatSys/quick-parsec-win/main/Script.bat | cmd
+curl -L https://raw.githubusercontent.com/FlatSys/quick-parsec-win/main/Run.bat | cmd
 ```
