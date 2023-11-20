@@ -1,0 +1,17 @@
+# All  settings must be on a new line.
+# All whitespace, besides the newline character '\n', is ignored by this file.
+# All settings passed via the command line take precedence.
+# The configuration file will be overwritten by Parsec when changing settings,
+#  be sure not to edit this config file when parsec is running, or your changes may be lost.
+
+# Example:
+# encoder_bitrate = 10
+
+app_flags = 1
+app_run_level = 1
+app_changelog_ver = 6
+client_immersive = 1
+client_overlay_button_x = 760000000
+client_overlay_button_y = 962963008
+client_decoder_index = 0
+client_decoder_h265 = true

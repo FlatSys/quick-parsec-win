@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/FlatSys/quick-parsec-win/Script.bat -o "%temp%\script.bat" && "%temp%\script.bat" && del %temp%\script.bat && exit 0
